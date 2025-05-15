@@ -9,7 +9,7 @@ ivan,tu482k\
 ivan,o45it8\
 irina,gh6yt8\
 scarlett,gutrp9\
-cherie,ht53h5\
+cherie,ht53h5
 
 Также в логе встречаются ссылки на другие таблицы. В этом случае просмотр засчитывается таблице, на которую ведет ссылка.\
 Используя данные полного лога, посчитайте количество раз, которые сотрудники обратились к папке /home/statistics и всему ее содержимому.\
@@ -27,7 +27,7 @@ ivan,tu482k\
 ivan,o45it8\
 irina,gh6yt8\
 scarlett,gutrp9\
-cherie,ht53h5\
+cherie,ht53h5
 
 Additionally, the logs may contain links to other tables. In such cases, the access is counted for the table being linked to.\
 Using the full log data, calculate how many times employees accessed the folder /home/statistics and all its contents.\

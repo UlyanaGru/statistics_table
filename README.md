@@ -32,5 +32,5 @@ cherie,ht53h5
 
 Additionally, the logs may contain links to other tables. In such cases, the access is counted for the table being linked to.\
 Using the full log data, calculate how many times employees accessed the folder /home/statistics and all its contents.\
-[Logs](https://disk.yandex.ru/d/bwL030DyUv9TvA)
+[Logs](https://disk.yandex.ru/d/bwL030DyUv9TvA)\
 [Accordance logs](accordance.txt)

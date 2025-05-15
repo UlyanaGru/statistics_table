@@ -1,0 +1,33 @@
+folders = {
+    'tu482k': {
+        'name': 'home',
+        'values': {
+            'o45it8': {
+                'name': 'statistics',
+                'values': {
+                    'gh6yt8': {
+                        'name': 'data_table_1',
+                        'values': {},
+                    },
+
+                    'gutrp9': {
+                        'name': 'data_table_2',
+                        'values': {},
+                    },
+
+                    'ht53h5': {
+                        'link': 'j69gfj',
+                    }
+                }
+            },
+
+            'j69gfj': {
+                'name': 'logs',
+                'values': {
+                    'name': '2021-01-01',
+                    'values': {},
+                }
+            }
+        }
+    }
+}
